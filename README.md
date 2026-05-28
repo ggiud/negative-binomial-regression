@@ -1,4 +1,4 @@
-readme = """# COVID-19 Statistical Analysis & Count Models (ECDC Data)
+# COVID-19 Statistical Analysis & Count Models (ECDC Data)
 
 ## Overview
 
@@ -96,5 +96,4 @@ Best models:
 - ZINB (predictive performance)
 - Negative Binomial (robust baseline)
 
-"""
 
